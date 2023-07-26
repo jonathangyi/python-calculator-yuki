@@ -5,6 +5,17 @@ def divide(num1, num2):
 def modulo (num1, num2):
     result= num1 % num2
     print("The result is ",result)
+def add (numl, num2) :
+result = numl + num2
+print ("The result is: ", result)
+def subtract (numl,
+num2):
+result = numl - num2
+print ("The result of subtract is: ", result)
+def multiply (numl, num2):
+result = numl * num2
+print ("The multiplication result is: ", result)
+
 
 
 def main():
