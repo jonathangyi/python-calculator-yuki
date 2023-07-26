@@ -1,4 +1,10 @@
-# Add your functions here!
+def divide(num1, num2):
+    result = num1 /num2
+    print("The result is ", result)
+
+def modulo (num1, num2):
+    result= num1 % num2
+    print("The result is ",result)
 
 
 def main():
